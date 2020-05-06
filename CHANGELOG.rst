@@ -1,6 +1,11 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package ros_ethercat_eml
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0.3.2 (2019-05-06)
+-----------
+* Cosmetic fix
+* Remove License pdf to solve double license issue. Add disclaimer.
+
 0.3.1 (2019-02-20)
 ------------------
 * Moved to new repo
