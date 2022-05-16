@@ -1,6 +1,12 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package ros_ethercat_eml
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Forthcoming
+-----------
+* Migration to noetic
+* updating cmake
+* Update README.md
+
 0.3.2 (2019-05-06)
 ------------------
 * Cosmetic fix
